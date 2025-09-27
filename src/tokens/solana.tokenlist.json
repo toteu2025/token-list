@@ -184617,6 +184617,18 @@
       ]
     }
   ],
+   {
+      "chainId": 101,
+      "address": "4VTyb3qhARRBHez1C9WAYirqd8nS5TDfjJh9F2GxCQZw",
+      "symbol": "WOLF",
+      "name": "Wolfecoin",
+      "decimals": 9,
+      "logoURI": "https://github.com/toteu2025/crypto/blob/main/woolfs%20coinstttt.png"
+       "tags": [
+        "social-token"
+      ]
+
+    },
   "version": {
     "major": 0,
     "minor": 3,
