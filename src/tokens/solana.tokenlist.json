@@ -184617,18 +184617,18 @@
       ]
     }
   ],
-   {
-      "chainId": 101,
-      "address": "W7FZ17nNGNoETHKYeH68CpuSk4QjP8E6nRibaGkHSBV",
-      "symbol": "WOLF",
-      "name": "Wolfcoin",
-      "decimals": 9,
-      "logoURI": "https://github.com/toteu2025/wolfcripto/blob/main/logo.png"
-       "tags": [
-        "social-token"
-      ]
+  {
+  "chainId": 101,
+  "address": "W7FZ17nNGNoETHKYeH68CpuSk4QjP8E6nRibaGkHSBV",
+  "symbol": "WOLF",
+  "name": "Wolfcoin",
+  "decimals": 9,
+  "logoURI": "https://github.com/toteu2025/wolfcripto/blob/main/logo.png",
+  "tags": [
+    "social-token"
+  ]
+}
 
-    },
   "version": {
     "major": 0,
     "minor": 3,
