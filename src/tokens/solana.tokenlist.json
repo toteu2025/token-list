@@ -184619,9 +184619,9 @@
   ],
   {
   "chainId": 101,
-  "address": "W7FZ17nNGNoETHKYeH68CpuSk4QjP8E6nRibaGkHSBV",
+    "name": "Wolfcoin",
   "symbol": "WOLF",
-  "name": "Wolfcoin",
+  "address": "FUqGv33txcTZvPUmyHWDKV1aosCXUVVK6FBFd57SqzUG",
   "decimals": 9,
   "logoURI": "https://github.com/toteu2025/wolfcripto/blob/main/logo.png",
   "tags": [
